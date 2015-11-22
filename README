@@ -1,0 +1,3 @@
+使用angularjs实现页面路由，跨域请求的实例
+
+服务器端代码请查看mvn_zero_config中的com.sin90lzc.controller.AngularTestController
